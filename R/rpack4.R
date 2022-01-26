@@ -20,6 +20,6 @@ cheat<- function(number){
     } else if (number == 16){
       return(rbind(seq(1,3,1), seq(8,12,2), seq(21,27,3)))
     } else
-      print("please type a number that is either 1,2,6 or 7")
+      print("please type a number that is either 1,2,6 or 16")
   }
 }
