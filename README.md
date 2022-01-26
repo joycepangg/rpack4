@@ -30,5 +30,8 @@ What if you type in a number that is not 1,2,6 or 16? No worries! The function w
 
 remind_me() reminds you of the birthday of the package author!
  
+ 
  remind_me() returns 
+ 
+                  "The birthday of the owner of this package is 26/10"
                      
