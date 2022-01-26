@@ -1,7 +1,7 @@
 #' Reminds users of the author's birthday
 #' @export
 remind_me <- function(){
-  return("my birthday is 26/10")
+  return("The birthday of the owner of this package is 26/10")
 }
 
 #' Allows users to cheat with assignment 3.1
