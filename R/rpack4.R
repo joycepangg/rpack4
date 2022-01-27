@@ -6,6 +6,7 @@ remind_me <- function(){
 
 #' Allows users to cheat with assignment 3.1
 #' @param number numeric variable
+#' @export
 cheat<- function(number){
   schiphol <- read.csv("https://raw.githubusercontent.com/hannesrosenbusch/schiphol_class/master/schiphol_data.csv")
   if (number == 1){
